@@ -5,26 +5,15 @@
 
 }
 
-.wrapper2  {
-    border: 1px solid darkcyan;
-    margin-top: 5px;
-    padding: 10px 20px;
-}
-
-.wrapper3  {
-    border: 1px solid darkcyan;
-    margin-top: 5px;
-    padding: 10px 20px;
-}
 
 h3{
     font-size: 25px;
-    color: blueviolet;
+    color: #ffd60a;
 }
 
 p{
     font-size: 20px;
-    color: blueviolet;
+    color: #ea0d48;
 }
 
 .buttons {

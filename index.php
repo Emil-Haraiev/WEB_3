@@ -5,12 +5,11 @@
 <html>
 
 <head>
-    <title>ЛБ1</title>
+    <title>Document</title>
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    
-<h2>Лабораторная работа №1</h2>
+
 
 <div class="wrapper1">
     <form action="profit.php" method="get">
